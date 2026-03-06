@@ -22,5 +22,5 @@ Although modding is not officially supported by Another Axiom, you're unlikely t
 
 ## So, what about Quest mods?
 
-Quest mods are unsupported. They **do not exist**, and **likely never will**.
-If you see someone claiming to have "Quest mods", they're either trolling, or are playing a clone.
+Quest mods are unsupported. They **are not currently public**, and **likely never will**.
+If you see someone claiming to have "quest mods", they're likely trolling, or are playing a clone.

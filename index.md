@@ -14,10 +14,10 @@ hero:
       link: https://discord.gg/t8AmU8YVcs
 
 features:
-  - title: bullshit
-    details: i have to have these dumb ass boxes here, otherwise it looks like shit.
-  - title: bullshit
-    details: i have to have these dumb ass boxes here, otherwise it looks like shit.
-  - title: bullshit
-    details: i have to have these dumb ass boxes here, otherwise it looks like shit.
+  - title: Bullshit
+    details: I have to have these dumb ass boxes here, otherwise it looks like shit.
+  - title: Bullshit
+    details: I have to have these dumb ass boxes here, otherwise it looks like shit.
+  - title: Bullshit
+    details: I have to have these dumb ass boxes here, otherwise it looks like shit.
 ---

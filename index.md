@@ -11,7 +11,7 @@ hero:
       link: /docs/get-started
     - theme: alt
       text: Join Discord
-      link: https://discord.gg/t8AmU8YVcs
+      link: https://discord.gg/5rTmMjtECf
 
 features:
   - title: Bullshit

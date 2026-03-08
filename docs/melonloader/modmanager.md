@@ -5,7 +5,7 @@ If you do not know how to find your game path, refer to [Locating Your Game](/do
 :::
 
 ::: tip
-If you need help with installation, don't hesitate to ask in the [Gorilla Tag Modding Hub Discord](https://discord.gg/t8AmU8YVcs)!
+If you need help with installation, don't hesitate to ask in the [Gorilla Tag Modding Hub Discord](https://discord.gg/5rTmMjtECf)!
 :::
 
 ## Mod Managers
@@ -64,7 +64,7 @@ Next, find your Gorilla Tag folder, and both of the files into `Mods/`.
 
 You've successfully modded your game!
 
-To find mods to install, refer to the [Gorilla Tag Mod Hub](https://discord.gg/t8AmU8YVcs), or the [Gorilla Tag GameBanana](https://gamebanana.com/games/9496) (managed via GorillaMelonManager).
+To find mods to install, refer to the [Gorilla Tag Mod Hub](https://discord.gg/5rTmMjtECf), or the [Gorilla Tag GameBanana](https://gamebanana.com/games/9496) (managed via GorillaMelonManager).
 
 ::: tip
 If you're using Linux, you need to do one more step.

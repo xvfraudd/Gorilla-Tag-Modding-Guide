@@ -7,7 +7,7 @@ Modding your game manually is **_not recommended_**. Unless you know what you're
 If you do not know how to find your game path, refer to [Locating Your Game](/docs/extra/locating-your-game.md).
 :::
 ::: tip
-If you need help with installation, don't hesitate to ask in the [Gorilla Tag Modding Hub Discord](https://discord.gg/t8AmU8YVcs)!
+If you need help with installation, don't hesitate to ask in the [Gorilla Tag Modding Hub Discord](https://discord.gg/5rTmMjtECf)!
 :::
 
 ## 0. Preface
@@ -58,7 +58,7 @@ Instead, copy the **contents** of it (`Mods/`).
 
 You've successfully modded your game!
 
-To find mods to install, refer to the [Gorilla Tag Mod Hub](https://discord.gg/t8AmU8YVcs), or the [Gorilla Tag GameBanana](https://gamebanana.com/games/9496).
+To find mods to install, refer to the [Gorilla Tag Mod Hub](https://discord.gg/5rTmMjtECf), or the [Gorilla Tag GameBanana](https://gamebanana.com/games/9496).
 
 ::: tip
 If you're using Linux, you need to do one more step.
